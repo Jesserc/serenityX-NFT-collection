@@ -6,9 +6,11 @@
 
 ## Solution
 
-- I used the thentic api to:
+
 - Code can be found in src/thentic api/
 
+
+## I used the thentic api to:
 ### create contract endpoint
 
 ```js
